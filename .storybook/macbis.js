@@ -32,7 +32,7 @@ export default create({
   inputBorderRadius: 4,
 
   brandTitle: 'MACBIS Harmony Design System',
-  brandUrl: 'https://github.com/FearlessSolutions/macbis-design.github.io',
+  // brandUrl: 'https://github.com/FearlessSolutions/macbis-design.github.io',
   brandImage: 'https://res.cloudinary.com/dne7utix5/image/upload/v1694185824/Logo-1_zkx5gb.png',
   brandTarget: '_self',
 });
