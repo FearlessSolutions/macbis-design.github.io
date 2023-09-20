@@ -84,11 +84,3 @@ Here's a brief overview of the project's directory structure:
 ## Contributing
 
 Feel free to contribute to this project by opening issues or pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Customize this README to match your project's specific details, such as the repository URL, project name, and any additional configuration. Providing clear and detailed instructions will make it easier for you and your team to work on the project and for others to contribute or use your components and Storybook documentation.
